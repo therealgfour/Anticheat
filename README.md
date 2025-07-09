@@ -1,5 +1,7 @@
 An anticheat solution for Arcuno Network. 
 
+This is the first custom anticheat I’ve ever coded. Through building it, I was able to write many custom checks and learn a lot about the game. Now that I’ve reached a point where I can write some more “advanced” checks, I’ve decided to open-source this first version.
+
 Credits:
 - [Sim0n](https://github.com/sim0n) - AutoClickerA check.
 - [Rhys](https://github.com/rhys0621) - Original author of the anticheat base and some Math utilities.
