@@ -2,7 +2,7 @@ An anticheat solution for Arcuno Network.
 
 This is the first custom anticheat I’ve ever coded. Through building it, I was able to write many custom checks and learn a lot about the game. Now that I’ve reached a point where I can write some more “advanced” checks, I’ve decided to open-source this first version.
 
-Note: Thisdepends on my custom fork, AetherSpigot, which you can find here: [AetherSpigot](https://drvsz/AetherSpigot)
+Note: This depends on my custom fork, AetherSpigot, which you can find here: [AetherSpigot](https://drvsz/AetherSpigot)
 
 Credits:
 - [Sim0n](https://github.com/sim0n) - AutoClickerA check.
