@@ -1,0 +1,7 @@
+name: Anticheat
+main: dev.drvzs.anticheat.Anticheat
+version: 1.0
+depend: [packetevents]
+
+commands:
+  vca:
