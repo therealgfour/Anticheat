@@ -1,5 +1,5 @@
 name: Anticheat
-main: me.fayne.anticheat.Anticheat
+main: me.lefton.anticheat.Anticheat
 version: 1.0
 depend: [packetevents]
 
